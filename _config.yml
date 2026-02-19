@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Noah Weaverdyck"
 title_separator          : "-"
 name                     : &name "Noah Weaverdyck"
@@ -30,7 +30,7 @@ author:
   location         : "CA, USA"
   employer         : "Berkeley National Laboratory"
   uri              : # URL
-  email            : "nweaverd [at] pm.me" 
+  email            : "nweaverd@pm.me" 
 
   # Academic websites
   academia         : # URL

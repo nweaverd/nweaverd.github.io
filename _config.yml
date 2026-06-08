@@ -87,7 +87,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Select publications with leading contributions'    
   conferences:
     title: 'Conference Papers'
 
@@ -264,10 +264,10 @@ defaults:
       author_profile: true
       share: false
       comments: true
-  # _publications
+  # _s
   - scope:
       path: ""
-      type: publications
+      type: s
     values:
       layout: single
       author_profile: true

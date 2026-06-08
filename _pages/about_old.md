@@ -1,5 +1,5 @@
 ---
-permalink: /
+
 title: "Academic webpage (in progress!) [test]"
 author_profile: true
 redirect_from: 

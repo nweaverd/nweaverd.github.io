@@ -3,7 +3,7 @@ title: "Steeling Weak Lensing Source Galaxy Samples against Systematics using Wi
 collection: publications
 category: manuscripts
 permalink: /publications/steeling-weak-lensing-source-galaxy-samples-against-systemat/
-excerpt: 'We investigate the cosmological constraining power of combined weak galaxy lensing and galaxy clustering probes, i.e. $3\times2$-point analyses, assuming flexible models for redshift uncertainty, and ...'
+excerpt: 'We investigate the cosmological constraining power of combined weak galaxy lensing and galaxy clustering probes, i.e. $3\times2$-point analyses, assuming flexible models for redshift uncertainty, and Lagrangian perturbation theory and hybrid effective field theory models for galaxy intrinsic alignments, galaxy bias and baryonic physics. In this context, we provide a detailed accounting of the limiting systematics on $3\times2$-point analyses. Our main finding is that in the presence of current l...'
 date: 2026-01-01
 venue: 'Submitted'
 

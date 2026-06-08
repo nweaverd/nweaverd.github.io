@@ -3,7 +3,7 @@ title: "Dark Energy Survey Year 3 Results: Galaxy clustering and systematics tre
 collection: publications
 category: manuscripts
 permalink: /publications/dark-energy-survey-year-3-results-galaxy-clustering-and-syst/
-excerpt: 'In this work we present the galaxy clustering measurements of the two DES lens galaxy samples: a magnitude-limited sample optimized for the measurement of cosmological parameters, MagLim, and a sample...'
+excerpt: 'In this work we present the galaxy clustering measurements of the two DES lens galaxy samples: a magnitude-limited sample optimized for the measurement of cosmological parameters, MagLim, and a sample of luminous red galaxies selected with the redMaGiC algorithm. MagLim / redMaGiC sample contains over 10 million / 2.5 million galaxies and is divided into six / five photometric redshift bins spanning the range z ∈ [0.20, 1.05] / z ∈ [0.15, 0.90]. Both samples cover 4143 $\deg ^2$ over which we pe...'
 date: 2021-01-01
 venue: 'Monthly Notices of the Royal Astronomical Society'
 paperurl: 'https://doi.org/10.1093/mnras/stac104'

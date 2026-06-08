@@ -5,7 +5,7 @@ title: "Dark Energy Survey Year 3 results: Constraints on extensions to
 collection: publications
 category: manuscripts
 permalink: /publications/dark-energy-survey-year-3-results-constraints-on-extensions-/
-excerpt: 'We constrain extensions to the $\Lambda$CDM model using measurements from the Dark Energy Survey&#39;s first three years of observations and external data. The DES data are the two-point correlation f...'
+excerpt: 'We constrain extensions to the $\Lambda$CDM model using measurements from the Dark Energy Survey&#39;s first three years of observations and external data. The DES data are the two-point correlation functions of weak gravitational lensing, galaxy clustering, and their cross-correlation. We use simulated data and blind analyses of real data to validate the robustness of our results. In many cases, constraining power is limited by the absence of nonlinear predictions that are reliable at our requi...'
 date: 2022-01-01
 venue: 'Physical Review D'
 paperurl: 'https://doi.org/10.1103/PhysRevD.107.083504'

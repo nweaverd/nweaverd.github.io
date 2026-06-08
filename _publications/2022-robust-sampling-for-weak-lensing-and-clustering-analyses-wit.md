@@ -3,7 +3,7 @@ title: "Robust sampling for weak lensing and clustering analyses with the dark e
 collection: publications
 category: manuscripts
 permalink: /publications/robust-sampling-for-weak-lensing-and-clustering-analyses-wit/
-excerpt: 'Recent cosmological analyses rely on the ability to accurately sample from high-dimensional posterior distributions. A variety of algorithms have been applied in the field, but justification of the pa...'
+excerpt: 'Recent cosmological analyses rely on the ability to accurately sample from high-dimensional posterior distributions. A variety of algorithms have been applied in the field, but justification of the particular sampler choice and settings is often lacking. Here we investigate three such samplers to motivate and validate the algorithm and settings used for the Dark Energy Survey (DES) analyses of the first 3 years (Y3) of data from combined measurements of weak lensing and galaxy clustering. We emp...'
 date: 2022-01-01
 venue: 'Monthly Notices of the Royal Astronomical Society'
 paperurl: 'https://doi.org/10.1093/mnras/stac2786'

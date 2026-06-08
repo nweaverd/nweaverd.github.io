@@ -3,7 +3,7 @@ title: "Dark Energy Survey Year 6 Results: improved mitigation of spatially vary
 collection: publications
 category: manuscripts
 permalink: /publications/dark-energy-survey-year-6-results-improved-mitigation-of-spa/
-excerpt: 'As photometric surveys reach unprecedented statistical precision, systematic uncertainties increasingly dominate large-scale structure probes relying on galaxy number density. Defining the final surve...'
+excerpt: 'As photometric surveys reach unprecedented statistical precision, systematic uncertainties increasingly dominate large-scale structure probes relying on galaxy number density. Defining the final survey footprint is critical, as it excludes regions affected by artefacts or suboptimal observing conditions. For galaxy clustering, spatially varying observational systematics, such as seeing, are a leading source of bias. Template maps of contaminants are used to derive spatially dependent corrections...'
 date: 2025-01-01
 venue: 'Submitted'
 

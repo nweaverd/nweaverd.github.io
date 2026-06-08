@@ -3,7 +3,7 @@ title: "The Quest for the Inflationary Spectral Runnings in the Presence of Syst
 collection: publications
 category: manuscripts
 permalink: /publications/the-quest-for-the-inflationary-spectral-runnings-in-the-pres/
-excerpt: 'Cosmological inflation predicts that the scalar spectral index “runs” with scale. Constraints on the values of the spectral runnings, and , therefore provide a fundamental test of the physics of infla...'
+excerpt: 'Cosmological inflation predicts that the scalar spectral index “runs” with scale. Constraints on the values of the spectral runnings, and , therefore provide a fundamental test of the physics of inflation. Here, we study the feasibility of measuring the runnings when information from upcoming large-volume galaxy surveys is used to supplement the information provided by a cosmic microwave background (CMB)-S4 experiment, particularly focusing on the effect of including high-k, nonlinear scales. Si...'
 date: 2018-01-01
 venue: 'The Astrophysical Journal'
 paperurl: 'https://doi.org/10.3847/1538-4357/aacaf7'

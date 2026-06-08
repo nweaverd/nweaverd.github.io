@@ -3,7 +3,7 @@ title: "Integrated Sachs-Wolfe map reconstruction in the presence of systematic 
 collection: publications
 category: manuscripts
 permalink: /publications/integrated-sachs-wolfe-map-reconstruction-in-the-presence-of/
-excerpt: 'The decay of gravitational potentials in the presence of dark energy leads to an additional, late-time contribution to anisotropies in the cosmic microwave background (CMB) at large angular scales. Th...'
+excerpt: 'The decay of gravitational potentials in the presence of dark energy leads to an additional, late-time contribution to anisotropies in the cosmic microwave background (CMB) at large angular scales. The imprint of this so-called integrated Sachs-Wolfe (ISW) effect to the CMB angular power spectrum has been detected and studied in detail, but reconstructing its spatial contributions to the CMB $\textit{map}$, which would offer the tantalizing possibility of separating the early- from the late-time...'
 date: 2017-01-01
 venue: 'Physical Review D'
 paperurl: 'https://doi.org/10.1103/PhysRevD.97.043515'

@@ -3,7 +3,7 @@ title: "Differential Assessment, Differential Benefit: Four-year Problem Roulett
 collection: publications
 category: manuscripts
 permalink: /publications/differential-assessment-differential-benefit-four-year-probl/
-excerpt: 'Using five million responses to thousands of practice examination questions on an optional study service known as Problem Roulette, we explore subject-specific differences in assessment style, grade b...'
+excerpt: 'Using five million responses to thousands of practice examination questions on an optional study service known as Problem Roulette, we explore subject-specific differences in assessment style, grade benefit from usage of the service, and differential features in study behavior and grade outcome by birth sex. Our study includes more than 20,000 students enrolled in eight terms of introductory courses in general chemistry, physics and statistics. Student responses in the space of accuracy and resp...'
 date: 2020-01-01
 venue: 'Proceedings of the Seventh ACM Conference on Learning @ Scale'
 paperurl: 'https://doi.org/10.1145/3386527.3406731'

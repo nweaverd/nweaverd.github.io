@@ -3,7 +3,7 @@ title: "Dark Energy Survey Year 6 Results: MagLim++ Lens Sample Selection and Me
 collection: publications
 category: manuscripts
 permalink: /publications/dark-energy-survey-year-6-results-maglim-lens-sample-selecti/
-excerpt: 'Galaxy clustering is a sensitive probe of the expansion history and growth of structure of the universe, and key degeneracies can be broken by combining these data with measurements of cosmic shear an...'
+excerpt: 'Galaxy clustering is a sensitive probe of the expansion history and growth of structure of the universe, and key degeneracies can be broken by combining these data with measurements of cosmic shear and galaxy-galaxy lensing (a so-called 3$\times$2pt analysis). The largest and least biased statistical samples of galaxies for use in clustering analyses can be collected photometrically through large imaging surveys. However, selecting clean photometric subsamples for cosmology are crucial for avoid...'
 date: 2026-01-01
 venue: 'Submitted'
 

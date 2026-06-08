@@ -3,7 +3,7 @@ title: "The Compilation and Validation of the Spectroscopic Redshift Catalogs fo
 collection: publications
 category: manuscripts
 permalink: /publications/the-compilation-and-validation-of-the-spectroscopic-redshift/
-excerpt: 'Over several dedicated programs that include targets beyond the main cosmological samples, the Dark Energy Spectroscopic Instrument collected spectra for 304,970 unique objects in two fields centered ...'
+excerpt: 'Over several dedicated programs that include targets beyond the main cosmological samples, the Dark Energy Spectroscopic Instrument collected spectra for 304,970 unique objects in two fields centered on the COSMOS and XMM-LSS fields. In this work, we develop spectroscopic redshift robustness criteria for those spectra, validate these criteria using visual inspection, and provide two custom value-added catalogs with our redshift characterizations. With these criteria, we reliably classify 212,935...'
 date: 2025-01-01
 venue: 'The Astronomical Journal'
 paperurl: 'https://doi.org/10.3847/1538-3881/ae1fde'

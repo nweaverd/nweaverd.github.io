@@ -3,7 +3,7 @@ title: "Mitigating contamination in LSS surveys: a comparison of methods"
 collection: publications
 category: manuscripts
 permalink: /publications/mitigating-contamination-in-lss-surveys-a-comparison-of-meth/
-excerpt: 'Future large scale structure surveys will measure the locations and shapes of billions of galaxies. The precision of such catalogs will require meticulous treatment of systematic contamination of the ...'
+excerpt: 'Future large scale structure surveys will measure the locations and shapes of billions of galaxies. The precision of such catalogs will require meticulous treatment of systematic contamination of the observed fields. We compare several existing methods for removing such systematics from galaxy clustering measurements. We show how all the methods, including the popular pseudo-$C_\ell$ Mode Projection and Template Subtraction methods, can be interpreted under a common regression framework and use ...'
 date: 2020-01-01
 venue: 'arXiv: Cosmology and Nongalactic Astrophysics'
 paperurl: 'https://doi.org/10.1093/MNRAS/STAB709'

@@ -3,7 +3,7 @@ title: "Taming Additive Systematics via Redshift-Bin-Optimized Star-Galaxy Separ
 collection: publications
 category: manuscripts
 permalink: /publications/taming-additive-systematics-via-redshift-bin-optimized-star-/
-excerpt: 'Contamination from stars in the galaxy samples of large-scale structure surveys can bias cosmological constraints if not tightly controlled. This is especially true for lens samples used for galaxy cl...'
+excerpt: 'Contamination from stars in the galaxy samples of large-scale structure surveys can bias cosmological constraints if not tightly controlled. This is especially true for lens samples used for galaxy clustering and galaxy-galaxy lensing probes, where contamination is a primary source of additive systematics. We propose an improved approach to star-galaxy separation and an optimal weighting scheme to jointly mitigate additive and multiplicative contamination of the density field at the map level. O...'
 date: 2026-01-01
 venue: 'Submitted'
 

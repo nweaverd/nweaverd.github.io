@@ -8,7 +8,7 @@ date: 2021-01-01
 venue: 'Monthly Notices of the Royal Astronomical Society'
 paperurl: 'https://doi.org/10.1093/mnras/stac104'
 arxivurl: 'http://arxiv.org/abs/2105.13540v1'
-citation: 'M. Rodr'iguez-Monroy, N. Weaverdyck, et al. (2021). Dark Energy Survey Year 3 Results: Galaxy clustering and systematics treatment for lens galaxy samples. Monthly Notices of the Royal Astronomical Society.'
+citation: 'M. Rodr&#39;iguez-Monroy, N. Weaverdyck, et al. (2021). Dark Energy Survey Year 3 Results: Galaxy clustering and systematics treatment for lens galaxy samples. Monthly Notices of the Royal Astronomical Society.'
 ---
 
 

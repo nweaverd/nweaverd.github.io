@@ -1,0 +1,16 @@
+---
+                title: "Integrated Sachs-Wolfe map reconstruction in the presence of systematic errors"
+                collection: publications
+                category: manuscripts
+                permalink: /publications/integrated-sachs-wolfe-map-reconstruction-in-the-presence-of/
+                excerpt: 'The decay of gravitational potentials in the presence of dark energy leads to an additional, late-time contribution to anisotropies in the cosmic microwave background (CMB) at large angular scales. Th...'
+                date: 2017-01-01
+                venue: 'Physical Review D'
+                paperurl: 'https://doi.org/10.1103/PhysRevD.97.043515'
+                citation: 'N. Weaverdyck, J. Muir, D. Huterer (2017). Integrated Sachs-Wolfe map reconstruction in the presence of systematic errors. Physical Review D.'
+                ---
+
+                The decay of gravitational potentials in the presence of dark energy leads to an additional, late-time contribution to anisotropies in the cosmic microwave background (CMB) at large angular scales. The imprint of this so-called integrated Sachs-Wolfe (ISW) effect to the CMB angular power spectrum has been detected and studied in detail, but reconstructing its spatial contributions to the CMB $\textit{map}$, which would offer the tantalizing possibility of separating the early- from the late-time contributions to CMB temperature fluctuations, is more challenging. Here we study the technique for reconstructing the ISW map based on information from galaxy surveys and focus in particular on how its accuracy is impacted by the presence of photometric calibration errors in input galaxy maps, which were previously found to be a dominant contaminant for ISW signal estimation. We find that both including tomographic information from a single survey and using data from multiple, complementary galaxy surveys improve the reconstruction by effectively self-calibrating the estimator against spurious power contributions from calibration errors. A high-fidelity reconstruction further requires one to account for the contribution of calibration errors to the observed galaxy power spectrum in the model used to construct the ISW estimator. We find that if the photometric calibration errors in galaxy surveys can be independently controlled at the level required to obtain unbiased dark energy constraints, then it is possible to reconstruct ISW maps with excellent accuracy using a combination of maps from two galaxy surveys with properties similar to Euclid and SPHEREx.
+
+                [Download/View paper](https://doi.org/10.1103/PhysRevD.97.043515)
+                

@@ -47,7 +47,7 @@ weak lensing surveys.
 
 Before joining Berkeley Lab, I was a graduate student and research assistant at
 the University of Michigan, where I completed my doctoral studies in physics
-under the supervision of Dragan Huterer. 
+under the supervision of Prof. Dragan Huterer. 
 
 ## Contact
 

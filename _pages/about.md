@@ -34,28 +34,24 @@ A key component is dentifying and controlling observational effects that can mas
 cosmological signals, so that our measurements can be turned into unbiased
 constraints on dark matter, dark energy, and the growth of structure.
 
+I have am an active member of the Dark Energy Survey (DES) collaboration, where I co-lead 
+the Large Scale Structure Systematics analysis team, as well the Dark Energy Spectroscopic
+Instrument (DESI) collaboration. 
 Currently, I spend much of my time focused on the interface of spectroscopic and
-photometric surveys, where I work to develop novel observational techniques that
+photometric surveys, where I work to develop novel observational and analysis techniques that
 compound the value of our data and improve the information we can extract from
-weak lensing surveys. As a member of the Dark Energy Spectroscopic Instrument (DESI)
-collaboration, I am working to leverage the cutting edge capabilities of 
-the the DESI telescope to census the faint Universe and 
-define weak lensing source samples that are robust to
-some of the most pernicious systematic effects plaguing current analyses.
-I have been an active member of the Dark Energy Survey (DES), where I contributed to the selection, characterization,
-and systematics treatment of the lens galaxy samples used in the Year 3 and final
-Year 6 3x2 point analyses, as well as in modeling and MCMC sampler characterization. 
+weak lensing surveys. 
+
 
 ## Background
 
 Before joining Berkeley Lab, I was a graduate student and research assistant at
 the University of Michigan, where I completed my doctoral studies in physics
-under the supervision of Dragan Huterer. My dissertation research centered on
-observational cosmology and the large-scale structure of the universe.
+under the supervision of Dragan Huterer. 
 
 ## Contact
 
-I'm always happy to talk about cosmology, survey systematics, and methodology.
 You can reach me by [email](mailto:nweaverd@pm.me), or find my work on
-[Google Scholar](https://scholar.google.com/citations?user=iAyGAPgAAAAJ&hl=en)
-and [ORCID](https://orcid.org/0000-0001-9382-5199).
+[Google Scholar](https://scholar.google.com/citations?user=iAyGAPgAAAAJ&hl=en),
+[arXiv](https://arxiv.org/search/?searchtype=author&query=Weaverdyck+N), and 
+[ORCID](https://orcid.org/0000-0001-9382-5199).

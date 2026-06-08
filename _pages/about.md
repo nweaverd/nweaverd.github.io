@@ -31,8 +31,8 @@ Much of my work develops and applies techniques to extract reliable cosmological
 information from the large-scale structure of the Universe while carefully
 controlling for observational biases. 
 A key component is dentifying and controlling observational effects that can masquerade as
-cosmological signals, so that our measurements can be turned into unbiased
-constraints on dark matter, dark energy, and the growth of structure.
+cosmological signals, so that our measurements can be used to produce accurate 
+constraints on cosmological parameters. 
 
 I have am an active member of the Dark Energy Survey (DES) collaboration, where I co-lead 
 the Large Scale Structure Systematics analysis team, as well the Dark Energy Spectroscopic

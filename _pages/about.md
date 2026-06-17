@@ -30,17 +30,23 @@ surveys.
 Much of my work develops and applies techniques to extract reliable cosmological
 information from the large-scale structure of the Universe while carefully
 controlling for observational biases. 
-A key component is dentifying and controlling observational effects that can masquerade as
+A key component is identifying and controlling observational effects that can masquerade as
 cosmological signals, so that our measurements can be used to produce accurate 
 constraints on cosmological parameters. 
 
-I have am an active member of the Dark Energy Survey (DES) collaboration, where I co-lead 
+I am an active member of the Dark Energy Survey (DES) collaboration, where I co-lead 
 the Large Scale Structure Systematics analysis team, as well the Dark Energy Spectroscopic
-Instrument (DESI) collaboration. 
+Instrument (DESI) collaboration.
 Currently, I spend much of my time focused on the interface of spectroscopic and
 photometric surveys, where I work to develop novel observational and analysis techniques that
 compound the value of our data and improve the information we can extract from
 weak lensing surveys. 
+I am also broadly interested in the role of science in society, 
+and responsibilities and opportunities we have living through climate breakdown.
+As a core member of the DESI Sustainability Committee, I helped assess the climate impacts of
+DESI as a large international science collaboration and chart potential pathways toward a more 
+responsible and sustainable science aligned with the Paris Climate Agreement and 
+UN Sustainable Development Goals.
 
 
 ## Background
